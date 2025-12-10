@@ -1,4 +1,4 @@
 hello i am ranjith 
 how are you
 i want to see how jenkins work?
-
+after edited in github and commit it and after clone in git after showing.
